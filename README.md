@@ -35,6 +35,12 @@ It allows users to explore, search, and get recommendations for movies based on 
 
 ---
 
+📸 Screenshots
+<p align="center"> <img src="<img width="734" height="397" alt="image" src="https://github.com/user-attachments/assets/02d30856-30ef-4683-bdcd-c00416f3cbaa" /></p>
+<p align="center"> <img src="<img width="730" height="399" alt="image" src="https://github.com/user-attachments/assets/c0ea3e45-967c-4273-9022-780308c68758" /> </p> 
+<p align="center"> <img src="<img width="718" height="389" alt="image" src="https://github.com/user-attachments/assets/12e1b2d1-ccd8-4eff-9aad-60529ab23736" /> </p>
+<p align="center"> <img src="<img width="732" height="385" alt="image" src="https://github.com/user-attachments/assets/1bb0cdb1-e94d-45b2-a801-87a19bf47326" /></p>
+---
 
 ## ⚡ Installation & Setup
 
