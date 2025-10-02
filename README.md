@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-7.x-blue?logo=php" alt="PHP"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-Database-orange?logo=mysql" alt="MySQL"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"></a>
+<a href="#"><img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Status"></a>
+</p>
 </p>
 
 ---
